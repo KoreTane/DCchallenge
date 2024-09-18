@@ -1,19 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README - Projeto de Clustering de Clientes</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; }
-        h1, h2, h3 { color: #333; }
-        pre { background-color: #f4f4f4; padding: 10px; border-radius: 5px; }
-        code { background-color: #eaeaea; padding: 2px 5px; border-radius: 3px; }
-        ul { margin: 10px 0; }
-    </style>
-</head>
-<body>
-
 <h1>Projeto de Clustering de Clientes para E-commerce</h1>
 
 <h2>Descrição do Projeto</h2>
@@ -51,7 +35,7 @@
     <li><strong>Clientes Ocasionais:</strong> Compram raramente e gastam pouco dinheiro.</li>
     <li><strong>Clientes Valiosos:</strong> Compram com frequência e gastam muito dinheiro.</li>
     <li><strong>Clientes Promissores:</strong> Compram com frequência, mas gastam pouco dinheiro.</li>
-    <li><strong>Clientes Indiferentes:</strong> Compram raramente e gastam pouco dinheiro.</li>
+
 </ul>
 
 <h2>Resultados Esperados</h2>
