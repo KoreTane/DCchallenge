@@ -1,7 +1,7 @@
 <h1>Projeto de Clustering de Clientes para E-commerce</h1>
 
 <h2>Descrição do Projeto</h2>
-<p>Este projeto visa agrupar perfis de clientes de um e-commerce utilizando técnicas de clustering. O objetivo é entender melhor o comportamento dos clientes para personalizar campanhas de marketing, aumentando a eficácia das promoções e ofertas.</p>
+<p>Este projeto visa agrupar perfis de clientes de um e-commerce utilizando técnicas de clustering. O objetivo é entender melhor o comportamento dos clientes para personalizar campanhas de marketing, aumentando a eficácia das promoções e ofertass.</p>
 
 <h2>Contexto</h2>
 <p>A empresa de e-commerce disponibilizou uma base de dados com informações sobre clientes, produtos e transações realizadas entre 2010 e 2011. Com mais de 4.000 clientes únicos e mais de 540.000 transações, o desafio é identificar padrões que ajudem na segmentação da base de clientes.</p>
